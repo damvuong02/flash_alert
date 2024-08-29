@@ -1,0 +1,12 @@
+#### Template android project by Rocket Studio
+#### How to use
+### Screen
+Name Convention for Activity or Fragment  `Name`Activity and `Name`Fragment
+- SplashActivity
+- LanguageActivity
+- OnBoardingActivity
+- PermissionActivity (`option depend on Project`)
+- MainActivity
+```
+
+

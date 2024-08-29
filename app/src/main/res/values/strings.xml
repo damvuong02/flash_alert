@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">NoDoor Project Base</string>
+    <string name="language" translatable="false">Language</string>
+    <string name="please_select_language">Please select language</string>
+    <string name="get_started">Get Started</string>
+    <string name="next">next</string>
+    <string name="txt_continue">Continue</string>
+    <string name="txt_request_record_permission">"    Recording is the permission required for the app to work"</string>
+    <string name="txt_denie">To use this feature, you need permission</string>
+    <string name="text_thank_you">Thank you for using</string>
+    <string name="text_rate_content">We work super hard to make app better for you,  and would love to know: how would you rate our app</string>
+    <string name="text_rate_now">Rate Now</string>
+    <string name="txt_thanks_you_for_rating">Thanks you for rating!</string>
+</resources>
